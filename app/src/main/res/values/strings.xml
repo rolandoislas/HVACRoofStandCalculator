@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HVAC Roof Stand Calculator</string>
+    <string name="textRoof">Roof Slope</string>
+    <string name="textFrame">Frame Size</string>
+    <string name="textLeg">Short Leg Size</string>
+    <string name="output">Long leg size: %s</string>
+    <string name="slopeBoundsError">Slope should be between 1 and 45.</string>
+    <string name="ok">@android:string/ok</string>
+</resources>
